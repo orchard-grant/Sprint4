@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code settings folder
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
